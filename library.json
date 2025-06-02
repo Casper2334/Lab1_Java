@@ -1,0 +1,1 @@
+{"books":[{"title":"Чужак","author":"Стівен Кінг","year":2018,"available":true},{"title":"Кобзар","author":"Тарас Шевченко","year":1840,"available":true},{"title":"Колонія","author":"Макс Кідрук","year":2022,"available":true}],"readers":[{"name":"Антон","borrowedBooks":[]},{"name":"Віка","borrowedBooks":[]},{"name":"Анна","borrowedBooks":[]}]}
